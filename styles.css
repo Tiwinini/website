@@ -1,11 +1,22 @@
 body {
   background-color: lightblue;
 }
+.titre
+{
+  color: red;
+}
 h1 {
-  color: white ;
+ color: white;
  text-align: center;
 }
+section
+{
+  border: 13px double;
+  border-color: red;
+ }
+
 p {
   font-family: verdana;
   font-size: 1em;
-}
+  text-align: center;
+  }
